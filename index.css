@@ -1,0 +1,376 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+.nav-logo {
+    width: 100px;
+}
+
+#nav-item1 {
+    color: black;
+}
+
+#nav-item2 {
+    color: black;
+}
+
+#nav-item3 {
+    color: black;
+}
+
+#nav-item4 {
+    color: black;
+}
+
+#nav-item5 {
+    color: black;
+}
+
+.services-heading {
+    color: #183b56;
+    font-size: 35px;
+    font-weight: bold;
+
+}
+
+.services-description {
+    font-size: 18px;
+    color: #7b8794;
+    font-weight: 400;
+    font-family: Roboto;
+}
+
+.card-image {
+    width: 80px;
+
+}
+
+.card-heading {
+    font-size: 20px;
+    color: #1f2933;
+    font-weight: 500;
+}
+
+.card-description {
+    color: #616c7c;
+
+}
+
+.product-heading {
+    font-family: Roboto;
+    color: #183b56;
+    font-weight: bold;
+    font-size: 25px;
+}
+
+.product-card {
+    background-image: url('https://d1tgh8fmlzexmh.cloudfront.net/ccbp-responsive-website/ecommerce-products-headphones-bg.png');
+    background-size: cover;
+    width: 100%;
+    height: 290px;
+    border-radius: 15px;
+}
+
+.product-card-2 {
+    background-image: url('https://d1tgh8fmlzexmh.cloudfront.net/ccbp-responsive-website/ecommerce-products-laptops-bg.png');
+    background-size: cover;
+    width: 100%;
+    height: 290px;
+    border-radius: 15px;
+}
+
+.product-card-heading {
+    color: #ffffff;
+    font-size: 35px;
+}
+
+.product-section-description {
+    color: #ffffff;
+    font-size: 17px;
+    font-weight: 300;
+}
+
+.custom-button {
+    background-color: #ffffff;
+    color: #ff9f00;
+    width: 125px;
+    height: 45px;
+    border: none;
+    border-radius: 30px;
+    font-weight: 500;
+    font-size: 15px;
+}
+
+.custom-colse-button {
+    border: 1px;
+    border-style: solid;
+    border-color: #323f4b;
+    background: transparent;
+    font-size: 15px;
+    width: 90px;
+    height: 35px;
+    border-radius: 5px;
+    font-weight: 400;
+}
+
+.p-bold {
+    font-weight: bold;
+}
+
+.modal-body {
+    font-size: 12px;
+    font-weight: 500;
+}
+
+.see-all-offers {
+    color: #ff9f00;
+    font-weight: bold;
+
+}
+
+.see {
+    margin: auto;
+}
+
+.offers-section {
+    background-image: linear-gradient(to right, #f49541, #dd5d97);
+}
+
+.offer-image-1 {
+    width: 300px;
+}
+
+.offer-image-1-md {
+    width: 120px;
+}
+
+.offer-image-2 {
+    width: 300px;
+}
+
+.offer-image-3 {
+    width: 300px;
+}
+
+.offers-heading {
+    color: #ad2167;
+    font-size: 25px;
+    font-weight: 500;
+    font-family: Bree Serif;
+}
+
+.offers-description {
+    color: #ffffff;
+    font-size: 16px;
+    font-weight: 400;
+}
+
+.span-class {
+    /* font-family: italic; */
+    font-weight: bold;
+}
+
+.trending-main-heading {
+    color: #183b56;
+    font-size: 35px;
+    font-weight: bold;
+}
+
+.trending-card-image {
+    width: 310px;
+}
+
+.card-small-heading {
+    color: #959ead;
+
+}
+
+.card-main-heading {
+    color: #183b56;
+    font-size: 25px;
+    font-weight: bold;
+}
+
+.card-description {
+    color: #959ead;
+    font-size: 22px;
+    font-weight: 400;
+}
+
+.read-link {
+    color: #ff9f00;
+    font-weight: bold;
+}
+
+.explore-section {
+    background-color: #f5f7fa;
+}
+
+.explore-section-main-heading {
+    color: #1f2933;
+    font-weight: bold;
+    font-size: 35px;
+}
+
+.electronics-gadgets-card {
+    background-color: #ffffff;
+    border-radius: 10px;
+}
+
+.electronics-gadgets-heading {
+    font-size: 21px;
+    font-weight: bold;
+    color: #1f2933;
+
+}
+
+.gadgets-card-image {
+    /* width: 120px; */
+    border-radius: 20px;
+
+}
+
+.gadgets-card-image-name {
+    font-weight: 400;
+    color: black;
+}
+
+.card {
+    padding: 4px;
+    margin: 10px;
+}
+
+.gadgets-image {
+    width: 130px;
+    border-radius: 15px;
+}
+
+.gadgets-image-name {
+    font-weight: 400;
+    font-size: 17px;
+    color: #f298f233;
+}
+
+.see-anchor {
+    font-size: 15px;
+    color: #ff9f00;
+    font-weight: bold;
+}
+
+.festival-offers-tv-card {
+    background-color: #ffffff;
+    border-radius: 10px;
+}
+
+.electronics-gadgets-image {
+    width: 100%;
+    border-radius: 40px;
+}
+
+.frendily-accessories-card {
+    background-color: #ffffff;
+    border-radius: 10px;
+}
+
+.frendily-accessories-heading {
+    font-size: 25px;
+    font-weight: bold;
+    color: #1f2933;
+}
+
+.frendily-accessories-image {
+    width: 130px;
+}
+
+.frendily-accessories-image-name {
+    color: #1f2933;
+    font-family: Roboto;
+    font-weight: 400;
+}
+
+.contact-section {
+    background-color: #f5f7fa;
+    padding: 30px;
+}
+
+.main-heading {
+
+    color: #183b56;
+    font-weight: bold;
+    font-size: 30px;
+}
+
+.custom-button {
+    padding: 7px;
+    border-color: #ff9f00;
+    color: #ff9f00;
+    width: 130px;
+}
+
+.fotter-section {
+    background-color: #0d2436;
+}
+
+.address-details-image {
+    width: 150px;
+}
+
+.address-details-icons {
+    background-color: #152c3e;
+    border-radius: 200px;
+    width: 40px;
+    padding-top: 11px;
+    padding-bottom: 12px;
+    padding-right: 11px;
+    padding-left: 12px;
+    font-size: 15px;
+    margin-right: 10px;
+
+}
+
+.icon {
+    color: #5a7184;
+}
+
+.address-details-description {
+    font-size: 14px;
+    color: #5a7184;
+    font-family: Roboto;
+    font-weight: 500;
+}
+
+.Get-to-know-heading {
+    color: #5a7184;
+    font-size: 16px;
+    font-weight: 500;
+}
+
+.Get-to-know-details {
+    font-size: 14px;
+    color: #5a7184;
+    font-weight: 400;
+    margin: 5px 0px;
+
+}
+
+.Contact-with-us-heading {
+    color: #5a7184;
+    font-size: 16px;
+    font-weight: 500;
+}
+
+.Let-us-help-heading {
+    color: #5a7184;
+    font-size: 16px;
+    font-weight: 500;
+}
+
+.line {
+    border-top: 1px solid #5a7184;
+}
+
+.autor {
+    color: #5a7184;
+    font-size: 14px;
+    font-weight: 500;
+    margin: 2px 0px;
+
+}
